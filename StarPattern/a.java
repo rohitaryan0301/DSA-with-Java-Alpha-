@@ -1,3 +1,6 @@
+
+// Star Pattern
+
 public class a{
     public static void main(String [] arg){
         for(int line=1;line<=5;line++){
